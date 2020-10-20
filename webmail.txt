@@ -1,6 +1,6 @@
-webmailOne.com
-webmailTwo.com
-webmailThree.com
-webmailFour.com
-webmailFive.com
-webmailSix.com
+webmailone.com
+webmailtwo.com
+webmailthree.com
+webmailfour.com
+webmailfive.com
+webmailsix.com

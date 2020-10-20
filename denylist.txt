@@ -1,5 +1,5 @@
-badDomainOne.com
-badDomainTwo.com
-badDomainThree.com
-badDomainFour.com
-badDomainFive.com
+baddomainone.com
+baddomaintwo.com
+baddomainthree.com
+baddomainfour.com
+baddomainfive.com
