@@ -1,0 +1,3 @@
+badDomainOne.com
+badDomainTwo.com
+badDomainThree.com
